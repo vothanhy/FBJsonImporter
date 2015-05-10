@@ -1,0 +1,8 @@
+Number of Facebook Posts inserted is: 20000/20000
+Processing time is: 29.457049131393 (s)
+
+Number of Facebook Posts inserted is: 20000/20000
+Processing time is: 29.710539102554 (s)
+
+Number of Facebook Posts inserted is: 20000/20000
+Processing time is: 29.180003881454 (s)
